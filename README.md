@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Lemark mobile application<br>👯 I’m looking to collaborate on Nestjs project<br>🌱 I’m currently learning Nestjs<br>💬 Ask me about  anything<br>⚡ Fun fact i like coding .
+🔭 I’m currently working on  "Lemark" mobile app<br>👯 I’m looking to collaborate on Nestjs project<br>🌱 I’m currently learning Nestjs<br>💬 Ask me about  anything<br>⚡ Fun fact i like coding .
 
 
 ## 🌐 Socials:
