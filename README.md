@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on an ERP system for Neoladge as part of my final year project (PFE)<br>👯 I’m looking to collaborate on Any project<br>🌱 I’m currently learning .Net & Vue.js<br>💬 Ask me about  anything<br>⚡ Fun fact i like coding .
+🔭  I’m currently working on an ERP system for NeoLedge as part of my final year Master’s degree project (PFE) <br>
+👯 I’m looking to collaborate on Any project<br>
+🌱 I’m currently learning .Net & Vue.js<br>
+💬 Ask me about  anything<br>⚡ Fun fact i like coding .
 
 
 ## 🌐 Socials:
